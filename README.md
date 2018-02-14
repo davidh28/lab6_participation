@@ -6,9 +6,12 @@ github collaboration practice
 - I would love to get credit for this exercise.
 
 # Yash
-
+Section S
 # Troy
 - Sorry I'm so sick..... 
 - Help me...
 # Mathew
+<<<<<<< HEAD
 This is my participation for this assignment
+=======
+>>>>>>> ys_par
